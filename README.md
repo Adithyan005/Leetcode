@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Adithyan005/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Adithyan005/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Adithyan005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Adithyan005/Leetcode/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Adithyan005/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
